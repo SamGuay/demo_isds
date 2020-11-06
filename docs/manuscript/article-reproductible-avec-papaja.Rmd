@@ -1,5 +1,5 @@
 ---
-title             : "Un article reproductible avec Papaja"
+title             : "Démonstration ISDS"
 shorttitle        : "Un article reproductible"
 
 author: 
